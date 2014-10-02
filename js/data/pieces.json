@@ -1,5 +1,31 @@
 {
 	"box": {
+		"players": [
+			{
+				"color": "yellow",
+				"key": "navigator"
+			},
+			{
+				"color": "black",
+				"key": "diver"
+			},
+			{
+				"color": "white",
+				"key": "messenger"
+			},
+			{
+				"color": "green",
+				"key": "explorer"
+			},
+			{
+				"color": "blue",
+				"key": "pilot"
+			},
+			{
+				"color": "reg",
+				"key": "engineer"
+			}
+		],
 		"treasures": [
 			{
 				"name": "The Earth Stone",
@@ -26,7 +52,7 @@
 			{
 				"key": "bronze-gate",
 				"name": "Bronze Gate",
-				"start": "red"
+				"start": "engineer"
 			},
 			{
 				"key": "cave-of-embers",
@@ -44,7 +70,8 @@
 			},
 			{
 				"key": "copper-gate",
-				"name": "Copper Gate"
+				"name": "Copper Gate",
+				"start": "explorer"
 			},
 			{
 				"key": "coral-palace",
@@ -61,11 +88,13 @@
 			},
 			{
 				"key": "fools-landing",
-				"name": "Fools' Landing"
+				"name": "Fools' Landing",
+				"start": "pilot"
 			},
 			{
 				"key": "gold-gate",
-				"name": "Gold Gate"
+				"name": "Gold Gate",
+				"start": "navigator"
 			},
 			{
 				"key": "howling-garden",
@@ -74,7 +103,8 @@
 			},
 			{
 				"key": "iron-gate",
-				"name": "Iron Gate"
+				"name": "Iron Gate",
+				"start": "diver"
 			},
 			{
 				"key": "lost-lagoon",
@@ -94,7 +124,8 @@
 			},
 			{
 				"key": "silver-gate",
-				"name": "Silver Gate"
+				"name": "Silver Gate",
+				"start": "messenger"
 			},
 			{
 				"key": "temple-of-the-moon",
