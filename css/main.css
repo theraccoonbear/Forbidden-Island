@@ -103,6 +103,9 @@ table.tileGrid td {
 .tile.flooded {
 		background-position: 0 -150px;		
 }
+tile.sunken {
+		background: #000;
+}
 
 
 

@@ -25,103 +25,104 @@
 			},
 			{
 				"key": "bronze-gate",
-				"name": "Bronze Gate"
+				"name": "Bronze Gate",
+				"start": "red"
 			},
 			{
-					"key": "cave-of-embers",
-					"name": "Cave of Embers",
-					"treasure": "crystal-of-fire"
+				"key": "cave-of-embers",
+				"name": "Cave of Embers",
+				"treasure": "crystal-of-fire"
 			},
 			{
-					"key": "cave-of-shadows",
-					"name": "Cave of Shadows",
-					"treasure": "crystal-of-fire"
+				"key": "cave-of-shadows",
+				"name": "Cave of Shadows",
+				"treasure": "crystal-of-fire"
 			},
 			{
-					"key": "cliffs-of-abandon",
-					"name": "Cliffs of Abandon"
+				"key": "cliffs-of-abandon",
+				"name": "Cliffs of Abandon"
 			},
 			{
-					"key": "copper-gate",
-					"name": "Copper Gate"
+				"key": "copper-gate",
+				"name": "Copper Gate"
 			},
 			{
-					"key": "coral-palace",
-					"name": "Coral Palace",
-					"treasure": "oceans-chalice"
+				"key": "coral-palace",
+				"name": "Coral Palace",
+				"treasure": "oceans-chalice"
 			},
 			{
-					"key": "crimson-forest",
-					"name": "Crimson Forest"
+				"key": "crimson-forest",
+				"name": "Crimson Forest"
 			},
 			{
-					"key": "dunes-of-deception",
-					"name": "Dunes of Deception"
+				"key": "dunes-of-deception",
+				"name": "Dunes of Deception"
 			},
 			{
-					"key": "fools-landing",
-					"name": "Fools' Landing"
+				"key": "fools-landing",
+				"name": "Fools' Landing"
 			},
 			{
-					"key": "gold-gate",
-					"name": "Gold Gate"
+				"key": "gold-gate",
+				"name": "Gold Gate"
 			},
 			{
-					"key": "howling-garden",
-					"name": "Howling Garden",
-					"treasure": "statue-of-the-wind"
+				"key": "howling-garden",
+				"name": "Howling Garden",
+				"treasure": "statue-of-the-wind"
 			},
 			{
-					"key": "iron-gate",
-					"name": "Iron Gate"
+				"key": "iron-gate",
+				"name": "Iron Gate"
 			},
 			{
-					"key": "lost-lagoon",
-					"name": "Lost Lagoon"
+				"key": "lost-lagoon",
+				"name": "Lost Lagoon"
 			},
 			{
-					"key": "misty-marsh",
-					"name": "Misty Marsh"
+				"key": "misty-marsh",
+				"name": "Misty Marsh"
 			},
 			{
-					"key": "observatory",
-					"name": "Observatory"
+				"key": "observatory",
+				"name": "Observatory"
 			},
 			{
-					"key": "phantom-rock",
-					"name": "Phantom Rock"
+				"key": "phantom-rock",
+				"name": "Phantom Rock"
 			},
 			{
-					"key": "silver-gate",
-					"name": "Silver Gate"
+				"key": "silver-gate",
+				"name": "Silver Gate"
 			},
 			{
-					"key": "temple-of-the-moon",
-					"name": "Temple of the Moon",
-					"treasure": "earth-stone"
+				"key": "temple-of-the-moon",
+				"name": "Temple of the Moon",
+				"treasure": "earth-stone"
 			},
 			{
-					"key": "temple-of-the-sun",
-					"name": "Temple of the Sun",
-					"treasure": "earth-stone"
+				"key": "temple-of-the-sun",
+				"name": "Temple of the Sun",
+				"treasure": "earth-stone"
 			},
 			{
-					"key": "tidal-palace",
-					"name": "Tidal Palace",
-					"treasure": "oceans-chalice"
+				"key": "tidal-palace",
+				"name": "Tidal Palace",
+				"treasure": "oceans-chalice"
 			},
 			{
-					"key": "twilight-hollow",
-					"name": "Twilight Hollow"
+				"key": "twilight-hollow",
+				"name": "Twilight Hollow"
 			},
 			{
-					"key": "watchtower",
-					"name": "Watchtower"
+				"key": "watchtower",
+				"name": "Watchtower"
 			},
 			{
-					"key": "whispering-garden",
-					"name": "Whispering Garden",
-					"treasure": "statue-of-the-wind"
+				"key": "whispering-garden",
+				"name": "Whispering Garden",
+				"treasure": "statue-of-the-wind"
 			}
 		]
 			
