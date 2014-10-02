@@ -1,0 +1,104 @@
+{
+	"box": {
+		"tiles": [
+			{
+				"key": "breakers-bridge",
+				"name": "Breakers Bridge"
+			},
+			{
+				"key": "bronze-gate",
+				"name": "Bronze Gate"
+			},
+			{
+					"key": "cave-of-embers",
+					"name": "Cave of Embers"
+			},
+			{
+					"key": "cave-of-shadows",
+					"name": "Cave of Shadows"
+			},
+			{
+					"key": "cliffs-of-abandon",
+					"name": "Cliffs of Abandon"
+			},
+			{
+					"key": "copper-gate",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "coral-palace",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "crimson-forest",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "dunes-of-deception",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "fools-landing",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "gold-gate",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "howling-garden",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "iron-gate",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "lost-lagoon",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "misty-marsh",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "observatory",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "phantom-rock",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "silver-gate",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "temple-of-the-moon",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "temple-of-the-sun",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "tidal-palace",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "twilight-hollow",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "watchtower",
+					"name": "Breakers Bridge"
+			},
+			{
+					"key": "whispering-garden",
+					"name": "Breakers Bridge"
+			}
+		]
+			
+			
+	}
+}
