@@ -33,7 +33,7 @@ var Game = Class.extend({
 	
 	init: function() {
 		var ctxt = this;
-		$.getJSON('/js/data/pieces.json', function(data) {
+		$.getJSON('./js/data/pieces.json', function(data) {
 			ctxt.tiles = data.box.tiles;
 			ctxt.treasures = data.box.treasures;
 			ctxt.setupBoard();
