@@ -61,8 +61,48 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+		background-color: #000;
+}
 
+table.tileGrid td {
+		padding: 5px;
+}
 
+.tile {
+		width: 150px;
+		height: 150px;
+		background-position: left top;
+}
+
+.tile.breakers-bridge { background: url(../img/tiles/breakers-bridge.png); }
+.tile.bronze-gate { background: url(../img/tiles/bronze-gate.png); }
+.tile.cave-of-embers { background: url(../img/tiles/cave-of-embers.png); }
+.tile.cave-of-shadows { background: url(../img/tiles/cave-of-shadows.png); }
+.tile.cliffs-of-abandon { background: url(../img/tiles/cliffs-of-abandon.png); }
+.tile.copper-gate { background: url(../img/tiles/copper-gate.png); }
+.tile.coral-palace { background: url(../img/tiles/coral-palace.png); }
+.tile.crimson-forest { background: url(../img/tiles/crimson-forest.png); }
+.tile.dunes-of-deception { background: url(../img/tiles/dunes-of-deception.png); }
+.tile.fools-landing { background: url(../img/tiles/fools-landing.png); }
+.tile.gold-gate { background: url(../img/tiles/gold-gate.png); }
+.tile.howling-garden { background: url(../img/tiles/howling-garden.png); }
+.tile.iron-gate { background: url(../img/tiles/iron-gate.png); }
+.tile.lost-lagoon { background: url(../img/tiles/lost-lagoon.png); }
+.tile.misty-marsh { background: url(../img/tiles/misty-marsh.png); }
+.tile.observatory { background: url(../img/tiles/observatory.png); }
+.tile.phantom-rock { background: url(../img/tiles/phantom-rock.png); }
+.tile.silver-gate { background: url(../img/tiles/silver-gate.png); }
+.tile.temple-of-the-moon { background: url(../img/tiles/temple-of-the-moon.png); }
+.tile.temple-of-the-sun { background: url(../img/tiles/temple-of-the-sun.png); }
+.tile.tidal-palace { background: url(../img/tiles/tidal-palace.png); }
+.tile.twilight-hollow { background: url(../img/tiles/twilight-hollow.png); }
+.tile.watchtower { background: url(../img/tiles/watchtower.png); }
+.tile.whispering-garden { background: url(../img/tiles/whispering-garden.png); }
+
+.tile.flooded {
+		background-position: 0 -150px;		
+}
 
 
 

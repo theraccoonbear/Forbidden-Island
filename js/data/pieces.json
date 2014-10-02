@@ -1,5 +1,23 @@
 {
 	"box": {
+		"treasures": [
+			{
+				"name": "The Earth Stone",
+				"key": "earth-stone"
+			},
+			{
+				"name": "The Statue of the Wind",
+				"key": "statue-of-the-wind"
+			},
+			{
+				"name": "The Crystal of Fire",
+				"key": "crystal-of-fire"
+			},
+			{
+				"name": "The Ocean's Chalice",
+				"key": "oceans-chalice"
+			}
+		],
 		"tiles": [
 			{
 				"key": "breakers-bridge",
@@ -11,11 +29,13 @@
 			},
 			{
 					"key": "cave-of-embers",
-					"name": "Cave of Embers"
+					"name": "Cave of Embers",
+					"treasure": "crystal-of-fire"
 			},
 			{
 					"key": "cave-of-shadows",
-					"name": "Cave of Shadows"
+					"name": "Cave of Shadows",
+					"treasure": "crystal-of-fire"
 			},
 			{
 					"key": "cliffs-of-abandon",
@@ -23,79 +43,85 @@
 			},
 			{
 					"key": "copper-gate",
-					"name": "Breakers Bridge"
+					"name": "Copper Gate"
 			},
 			{
 					"key": "coral-palace",
-					"name": "Breakers Bridge"
+					"name": "Coral Palace",
+					"treasure": "oceans-chalice"
 			},
 			{
 					"key": "crimson-forest",
-					"name": "Breakers Bridge"
+					"name": "Crimson Forest"
 			},
 			{
 					"key": "dunes-of-deception",
-					"name": "Breakers Bridge"
+					"name": "Dunes of Deception"
 			},
 			{
 					"key": "fools-landing",
-					"name": "Breakers Bridge"
+					"name": "Fools' Landing"
 			},
 			{
 					"key": "gold-gate",
-					"name": "Breakers Bridge"
+					"name": "Gold Gate"
 			},
 			{
 					"key": "howling-garden",
-					"name": "Breakers Bridge"
+					"name": "Howling Garden",
+					"treasure": "statue-of-the-wind"
 			},
 			{
 					"key": "iron-gate",
-					"name": "Breakers Bridge"
+					"name": "Iron Gate"
 			},
 			{
 					"key": "lost-lagoon",
-					"name": "Breakers Bridge"
+					"name": "Lost Lagoon"
 			},
 			{
 					"key": "misty-marsh",
-					"name": "Breakers Bridge"
+					"name": "Misty Marsh"
 			},
 			{
 					"key": "observatory",
-					"name": "Breakers Bridge"
+					"name": "Observatory"
 			},
 			{
 					"key": "phantom-rock",
-					"name": "Breakers Bridge"
+					"name": "Phantom Rock"
 			},
 			{
 					"key": "silver-gate",
-					"name": "Breakers Bridge"
+					"name": "Silver Gate"
 			},
 			{
 					"key": "temple-of-the-moon",
-					"name": "Breakers Bridge"
+					"name": "Temple of the Moon",
+					"treasure": "earth-stone"
 			},
 			{
 					"key": "temple-of-the-sun",
-					"name": "Breakers Bridge"
+					"name": "Temple of the Sun",
+					"treasure": "earth-stone"
 			},
 			{
 					"key": "tidal-palace",
-					"name": "Breakers Bridge"
+					"name": "Tidal Palace",
+					"treasure": "oceans-chalice"
 			},
 			{
 					"key": "twilight-hollow",
-					"name": "Breakers Bridge"
+					"name": "Twilight Hollow"
 			},
 			{
 					"key": "watchtower",
-					"name": "Breakers Bridge"
+					"name": "Watchtower"
 			},
 			{
 					"key": "whispering-garden",
-					"name": "Breakers Bridge"
+					"name": "Whispering Garden",
+					"treasure": "statue-of-the-wind"
 			}
 		]
 			
