@@ -26,6 +26,42 @@
 				"key": "engineer"
 			}
 		],
+		"decks": {
+			"treasure": {
+				"earth-stone": 5,
+				"statue-of-the-wind": 5,
+				"crystal-of-fire": 5,
+				"oceans-chalice": 5,
+				"helicopter-lift": 3,
+				"sand-bag": 2
+			},
+			"flood": {
+				"breakers-bridge": 1,
+				"bronze-gate": 1,
+				"cave-of-embers": 1,
+				"cave-of-shadows": 1,
+				"cliffs-of-abandon": 1,
+				"copper-gate": 1,
+				"coral-palace": 1,
+				"crimson-forest": 1,
+				"dunes-of-deception": 1,
+				"fools-landing": 1,
+				"gold-gate": 1,
+				"howling-garden": 1,
+				"iron-gate": 1,
+				"lost-lagoon": 1,
+				"misty-marsh": 1,
+				"observatory": 1,
+				"phantom-rock": 1,
+				"silver-gate": 1,
+				"temple-of-the-moon": 1,
+				"temple-of-the-sun": 1,
+				"tidal-palace": 1,
+				"twilight-hollow": 1,
+				"watchtower": 1,
+				"whispering-garden": 1
+			}
+		},
 		"treasures": [
 			{
 				"name": "The Earth Stone",
