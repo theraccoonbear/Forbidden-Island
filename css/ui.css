@@ -1,0 +1,22 @@
+.overlay {
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background-color: #555;
+	opacity: 0.7;
+}
+
+.dialog {
+	position: fixed;
+	left: 100px;
+	top: 100px;
+	width: 450px;
+	height: 400px;
+	background-color: #ccc;
+	border-left: 3px solid #fff;
+	border-top: 3px solid #fff;
+	border-right: 3px solid #555;
+	border-bottom: 3px solid #555;
+}

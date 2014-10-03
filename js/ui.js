@@ -22,7 +22,8 @@ var UI = Class.extend({
 						c: [
 							{
 								e: 'h1',
-								a: {class: 'dialogTitle'}
+								a: {class: 'dialogTitle'},
+								html: 'Title'
 							},
 							{
 								e: 'span',
@@ -54,11 +55,15 @@ var UI = Class.extend({
 	
 	build: function(s) {
 		var ctxt = this;
-		s = $.extend({}, {e: 'div', a: {}, c: [], i: 'elem_' + (new Date()).getTime()}, s);
+		s = $.extend({}, {e: 'div', a: {}, c: [], i: 'elem_' + (new Date()).getTime(), html: false}, s);
 		var $s = $('<' + s.e + '>');
 		$.each(s.a, function(n, v) {
 			$s.attr(n, v);
 		});
+		
+		if (s.html !== false) {
+			$s.html(s.html);
+		}
 		
 		$.each(s.c, function(i, cs) {
 			$s.append(ctxt.build(cs));
